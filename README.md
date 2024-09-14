@@ -1,5 +1,5 @@
-## USC CSCI 572 Spring 2024 (Information Retrieval and Web Search Engines)
+## USC CSCI 578 Fall 2024 (Software Architecture)
 
 #### Description
- Examines key aspects of information retrieval as they apply to search engines; web crawling, indexing, querying and quality of results are studied.
+ Study of concepts, principles, and scope of software system architectures, including architectural styles, languages, connectors, middleware, dynamism, analysis, testing, and domain-specific approaches.
 
